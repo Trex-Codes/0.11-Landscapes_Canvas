@@ -257,10 +257,32 @@ ctx.closePath();
 // -----------------------------------------------
 // -----------------------------------------------
 
+// ARBOLES
+// (1)
+ctx.beginPath();
+ctx.fillStyle = "rgb(138, 60, 29)";
+ctx.fillRect(1422, 420, 25, 95);
+ctx.stroke();
+ctx.closePath();
+
+	// RAMA 1
+	ctx.beginPath();
+	ctx.lineTo(1422, 421);
+	ctx.lineTo(1343, 421);
+	ctx.lineTo(1371, 365);
+	ctx.lineTo(1473, 365);
+	ctx.lineTo(1503, 421);
+	ctx.lineTo(1422, 421);
+	ctx.stroke();
+	ctx.closePath();
+
+// -----------------------------------------------
+// -----------------------------------------------
+
 // MONTAÑAS CURVAS 
 // (1)
 ctx.beginPath();
-ctx.fillStyle = "rgba(55, 176, 38, 0.6)";
+ctx.fillStyle = "rgba(55, 176, 38, 0.3)";
 ctx.strokeStyle = "black";
 ctx.arc(65, 730, 280, 0, (Math.PI/180)*360);
 ctx.stroke();
@@ -268,7 +290,7 @@ ctx.fill();
 ctx.closePath();
 
 ctx.beginPath();
-ctx.fillStyle = "rgba(55, 176, 38, 0.6)";
+ctx.fillStyle = "rgba(55, 176, 38, 0.3)";
 ctx.strokeStyle = "black";
 ctx.arc(1410, 900, 400, 0, (Math.PI/180)*360);
 ctx.stroke();
