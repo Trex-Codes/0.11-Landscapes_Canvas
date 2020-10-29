@@ -1,6 +1,14 @@
 var canvas = document.getElementById('CanvasJS');
 var ctx = canvas.getContext("2d");
 
+ctx.beginPath();
+var gradient = ctx.createLinearGradient(0, 150, 0, 730);
+gradient.addColorStop(0,"rgba(28, 130, 226)");
+gradient.addColorStop(1,"white");
+ctx.fillStyle = gradient;
+ctx.fillRect(0, 0, canvas.width, canvas.height);
+ctx.closePath();
+
 // -----------------------------------------------
 // -----------------------------------------------
 
