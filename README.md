@@ -1,4 +1,4 @@
-# 0.12-Landscapes_Canvas
+# 0.11-Landscapes_Canvas
 ## _Geometric designs based on natural landscapes using `Canvas`_
 
 ## Starting 🎨
@@ -26,7 +26,7 @@ _An island context giving each one a specific characteristic within the website,
 ![img](https://github.com/Trex-Codes/0.12-Landscapes_Canvas/blob/master/Assets/Island.png)
 
 ## Author(s) ✒️
-- **Juan Giraldo** - _Initial Work, Documentation_ [Trex_Codes](https://github.com/Trex-Codes)
+- _Initial Work, Documentation_ [Trex-Codes](https://github.com/Trex-Codes)
 
 ## Contributions 🖇️
 _for now I do not believe that there is a possibility of modifying this project so that it will remain "down" until a next amendment. 
