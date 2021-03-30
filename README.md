@@ -20,6 +20,11 @@ and at the bottom is a small lake. All colors were made by means of gradients or
 
 ![img](https://github.com/Trex-Codes/0.12-Landscapes_Canvas/blob/master/Assets/Forest_Canvas.png)
 
+3. **Sea_Island**
+_An island context giving each one a specific characteristic within the website, The design is based on a 3x3 puzzle in which it is composed of a small reef, then a sand island and finally a palm tree._
+
+![img](https://github.com/Trex-Codes/0.12-Landscapes_Canvas/blob/master/Assets/Island.png)
+
 ## Author(s) ✒️
 - **Juan Giraldo** - _Initial Work, Documentation_ [Trex_Codes](https://github.com/Trex-Codes)
 
