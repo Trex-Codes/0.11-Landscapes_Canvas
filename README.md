@@ -1,4 +1,4 @@
-# 0.11-Landscapes_Canvas
+# Landscapes_Canvas
 ## _Geometric designs based on natural landscapes using `Canvas`_
 
 ## Starting 🎨
